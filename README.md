@@ -13,7 +13,7 @@ This repository contains a compilation of exercises and resources designed to he
 - **Windows 10 or higher***
     - In case you want to control de robot from your computer
  
-## Lesson 0: Getting Set Up :gear:
+## [Lesson 0: Getting Set Up](https://github.com/LEBOTICS-5948/Code_Kids_Learning_path/tree/main/Lesson_0) :gear:
 In this lesson you will install all the tools needed to start coding for an FRC robot.
 - Visual Studio Code (IDE)
 - WPILib Extension (FRC specific funcionality to code robots)
